@@ -12,7 +12,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Built an AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal.
+Built an AI image SaaS platform that excels in image processing capabilities,  offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal.
 
 
 
